@@ -224,9 +224,3 @@ Open the notebooks in order from 01 to 03.
 Forecasting Macroeconomic Indicators with ML, presented at the Hinweis International Conference ASIT 2024.
 
 ---
-
-## Author
-
-**Dhairya Shah**
-MS Data Science, Stevens Institute of Technology
-[Portfolio](https://www.dhairya-shah.com) · [LinkedIn](https://www.linkedin.com/in/dhairya-shah-b00b111b6) · [GitHub](https://github.com/dhairya1310)
